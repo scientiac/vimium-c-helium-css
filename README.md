@@ -1,5 +1,5 @@
 # vimium-c-helium-css
-A  css style for Vimium C that looks good on helium browser.
+A  css style for Vimium C omnibar that looks good on helium browser.
 
 <img width="2879" height="1799" alt="image" src="https://github.com/user-attachments/assets/12d1a6ec-3287-4236-af59-244353f7295c" />
 
