@@ -25,6 +25,8 @@ body.has-dark {
 body {
   width: 700px;
   margin: auto;
+  border-radius: 12px;
+  box-shadow: none;
 
   background-color: var(--bg);
   color: var(--text);
