@@ -1,7 +1,7 @@
 {
 	"name": "Vimium C",
-	"@time": "5/19/2026, 1:36:04 PM",
-	"time": 1779177064990,
+	"@time": "5/19/2026, 1:56:52 PM",
+	"time": 1779178312142,
 	"environment": {
 		"extension": "2.12.2",
 		"platform": "linux",
@@ -41,8 +41,10 @@
 		"}",
 		"",
 		"body {",
-		"  width: 700px;",
+		"  max-width: 700px;",
 		"  margin: auto;",
+		"  border-radius: 12px;",
+		"  box-shadow: none;",
 		"",
 		"  background-color: var(--bg);",
 		"  color: var(--text);",
@@ -149,5 +151,12 @@
 		"}",
 		""
 	],
-	"vimSync": true
+	"vimSync": true,
+	"vomnibarOptions": {
+		"actions": "",
+		"maxMatches": 10,
+		"queryInterval": 333,
+		"sizes": "77,3,44,0.8,1944",
+		"styles": "mono-url"
+	}
 }
