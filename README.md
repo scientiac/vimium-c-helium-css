@@ -1,7 +1,7 @@
 # vimium-c-helium-css
 A  css style for Vimium C that looks good on helium browser.
 
-<img width="2879" height="1799" alt="image" src="https://github.com/user-attachments/assets/e3220a70-9468-4141-b67a-269e52fb2a31" />
+<img width="2879" height="1799" alt="image" src="https://github.com/user-attachments/assets/12d1a6ec-3287-4236-af59-244353f7295c" />
 
 ## To apply:
 
